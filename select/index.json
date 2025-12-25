@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ICONIC",
+  "base_artist": "aespa",
+  "createdAt": "2025-12-25T14:34:10.944011Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Iconic",
+      "artist": "Madonna feat. Chance the Rapper & Mike Tyson",
+      "has_synced": true,
+      "path": "select/01_Iconic_Madonna_feat._Chance_the_Rapper_&_Mike_Tyson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Iconic (Feat. Chance The Rapper & Mike Tyson)",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/02_Iconic_(Feat._Chance_The_Rapper_&_Mike_Tyson)_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Iconic",
+      "artist": "Poppy",
+      "has_synced": false,
+      "path": "select/03_Iconic_Poppy.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Iconic",
+      "artist": "Simple Plan",
+      "has_synced": true,
+      "path": "select/04_Iconic_Simple_Plan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Iconic",
+      "artist": "Amaranthe",
+      "has_synced": true,
+      "path": "select/05_Iconic_Amaranthe.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Iconic (feat. Chance The Rapper)",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/06_Iconic_(feat._Chance_The_Rapper)_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ICONIC (ft. Jaden Smith)",
+      "artist": "Logic",
+      "has_synced": true,
+      "path": "select/07_ICONIC_(ft._Jaden_Smith)_Logic.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Iconic Images",
+      "artist": "Allegaeon",
+      "has_synced": false,
+      "path": "select/08_Iconic_Images_Allegaeon.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ICONIC (ft. Jaden Smith)",
+      "artist": "Logic, Jaden",
+      "has_synced": true,
+      "path": "select/09_ICONIC_(ft._Jaden_Smith)_Logic,_Jaden.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ICONIC",
+      "artist": "Logic",
+      "has_synced": true,
+      "path": "select/10_ICONIC_Logic.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ICONIC",
+      "artist": "Logic feat. Jaden Smith",
+      "has_synced": true,
+      "path": "select/11_ICONIC_Logic_feat._Jaden_Smith.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Iconic - Live",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/12_Iconic_-_Live_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ICONIC",
+      "artist": "aespa",
+      "has_synced": true,
+      "path": "select/13_ICONIC_aespa.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Iconic",
+      "artist": "Madonna;Chance the Rapper;Mike Tyson",
+      "has_synced": true,
+      "path": "select/14_Iconic_Madonna;Chance_the_Rapper;Mike_Tyson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Iconic",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/15_Iconic_Madonna.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Traumatic Iconic",
+      "artist": "You Me At Six",
+      "has_synced": false,
+      "path": "select/16_Traumatic_Iconic_You_Me_At_Six.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ICONIC",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_ICONIC_aespa.txt"
+    }
+  ]
+}
