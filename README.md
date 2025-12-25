@@ -1,0 +1,65 @@
+# aespa – ICONIC
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:12.35] 감출수록 I seek, 끌리는, I'm so chic
+[00:15.60] 눈만 살짝 마주쳐도, 빨개지는 your cheek
+[00:18.88] Born to be a superstar, 본능에 널 맡겨봐
+[00:21.96] 진짜 나를 찾아가
+[00:26.46] 
+[00:23.68] 착한 두 눈에 감춘 wild, yeah, I'm wild, 슬쩍 건드려 봐 now
+[00:27.74] 발단 전개 따위 스킵한 채 드러내 이빨
+[00:30.98] We wanna play (play, play), we gonna play (play, play)
+[00:34.02] 솔직하게 느낀 대로 표현해 제대로
+[00:43.02] 
+[00:37.45] 저 별빛이 배인 선명한 목소린
+[00:41.56] 내 꿈 안에 꺼지지 않을 flames (in my voice)
+[00:45.51] 이끌린 그 순간 (hear my voice)
+[00:49.05] 뭘 그리 고민해? 네 심장은 내게만 반응해
+[00:53.95] 지루한 frame 보란 듯 벗어 나
+[00:57.03] 네 맘 다 사로잡았어 이미, 난 I-C-O-N-I-C
+[01:11.53] 
+[01:02.58] We do it, do it, do it (so iconic)
+[01:05.94] Do it, do it, do it (so I got it)
+[01:09.09] Do it, do it, do it (so I'm coming)
+[01:12.32] I-C-O-N-I-C (do it, do it, do it, do it)
+[01:32.32] 
+[01:15.34] I'ma vroom-vroom-vroom, 커져가 네 맘의 소리
+[01:18.78] Zoom-zoom-zoom, turn up, turn up, girls
+[01:21.45] I'ma vroom-vroom-vroom, 내게로 네 맘의 소리
+[01:24.53] Zoom-zoom-zoom
+[01:31.53] 
+[01:26.23] 잠시도 쉴 새 없이, pow, pow, pow, 불꽃처럼 타올라
+[01:30.78] We go loud, loud, loud to the sky, we flying now
+[01:33.86] 까만 어둠 속 electric, 잠든 너를 깨울 timing
+[01:37.25] Like a lightning bolt, we're shining, you feel it, we collect it
+[02:09.25] 
+[01:40.47] 난 반짝여, 매일, 매 순간, 더 높이
+[01:44.52] 내 꿈 안에 날개를 펼쳐 내 (in my voice)
+[01:48.61] 널 향한 그 순간 (hear my voice)
+[01:52.01] 왜 아직 고민해? 네 눈앞에 빛나는 모든 게
+[01:56.94] 곧 손안에 잡힐 듯 다가와
+[02:00.06] 네 맘을 채울수록 깊어져 가, I-C-O-N-I-C
+[02:14.06] 
+[02:05.22] We do it, do it, do it (so iconic)
+[02:08.52] Do it, do it, do it (so I got it)
+[02:11.83] Do it, do it, do it (so I'm coming)
+[02:15.01] I-C-O-N-I-C (do it, do it, do it, do it)
+[02:35.01] 
+[02:18.07] I'ma vroom-vroom-vroom, 커져가 네 맘의 소리
+[02:21.33] Zoom-zoom-zoom, turn up, turn up, girls
+[02:23.83] I'ma vroom-vroom-vroom, 내게로 네 맘의 소리
+[02:27.73] Zoom-zoom-zoom (서로를 담아 닮아가는 eyes)
+[02:44.23] 
+[02:31.28] You, you, 너와 날 너와 날 완성해 줄
+[02:37.05] You (your eyes), you, 누구도 가지 않은 길
+[02:43.09] So be yourself, 흔들림 없이 매일, be myself
+[02:47.84] We go and make it iconic (like that), 거침없이 (like that)
+[02:52.90] (Watch out) 네 맘 더 깊이
+[03:02.90] 
+[02:55.67] We do it, do it, do it (so iconic)
+[02:59.28] Do it, do it, do it (so I got it)
+[03:02.28] Do it, do it, do it (so I'm coming)
+[03:05.00] I-C-O-N-I-C (do it, do it, do it, do it), wow
+```
